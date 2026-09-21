@@ -1,5 +1,4 @@
-const CACHE_NAME = "pixel-blast-v2";
-
+const CACHE_NAME = "pixel-blast-v3";
 const FILES = [
   "./",
   "./index.html",
